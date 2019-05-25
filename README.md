@@ -1,7 +1,7 @@
 # Apuntes de administración de sistemas
 
 Desarrollados como parte y preparación de la asignatura de Administración
-de  Sistemas  de  Grado  en  Ingeniería  Informática de la Universidad de
+de  Sistemas  del  Grado  en  Ingeniería  Informática de la Universidad de
 Salamanca.
 
 En desarrollo. Puede haber erratas, e información incompleta.
