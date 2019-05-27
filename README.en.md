@@ -13,6 +13,7 @@ Developing. Possible errors or missing information.
 
 This project is licensed under the CC-BY 4.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Sources
 
-* No one but myself yet
+* Nemeth, E. (2011). *Unix and Linux system administration handbook*. Upper Saddle River (New Jersey): Prentice Hall.
+* Garrels, M. (2010). *Introduction to Linux: A hand-on guide*. Palo Alto, CA: Fultus Corporation.
