@@ -6,6 +6,10 @@ Salamanca.
 
 En desarrollo. Puede haber erratas, e información incompleta.
 
+## Autoevaluación
+
+Es posible encontrar un test de autoevaluación de lo aprendido en la asignatura [aquí](https://forms.gle/sAfDkkSDJsHVA7Dz7).
+
 ## Autores
 
 * **Mr Hydden** - [mr-hydden](https://github.com/mr-hydden)
